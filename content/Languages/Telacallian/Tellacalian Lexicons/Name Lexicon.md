@@ -1,0 +1,1 @@
+the dictionary of the objects in the [[Telacallian]] language
