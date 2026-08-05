@@ -1,0 +1,3 @@
+Volock dam blocks water from the [[Volashnic Sea]] from going into the [[Aquashnic Sea]] and vise-versa. Secondly the dam has two sluices, with only one open at a time it allows ships to travel between the two seas but stops contaminated water from getting into the Aquashnic Sea.
+
+the construction of Volock dam started around the same of time of King's Crossing but it was finished in only around 5 years because of it being significantly less complicated.

@@ -1,0 +1,3 @@
+The Aquashnic Sea is a man-made sea, it is contain of by [[King's Crossing]] and [[Volock Dam]], the water in the Aquashnic Sea is still not fit for human consumption but King's crossing has filtered metals and particles out of it which makes the water safe for ship's that aren't sea worthy.
+
+The sea also harbors a lot of flora and fauna that was almost lost after the [[Volashnic Rift]], it also contains some rare species of fish. Fishing in the sea is heavily controlled because of its fragile ecosystem

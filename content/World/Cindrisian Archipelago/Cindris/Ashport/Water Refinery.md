@@ -1,0 +1,1 @@
+The most important building in all of Ashport, since the [[Volashnic Rift]] the water from the [[Volashnic Sea]] turned toxic. The water refinery cleans all water of toxins so the people of [[Ashport]] can drink  the water. The refinery uses a [[Spidersilk Filter]] for refining which they import from [[Telacallia]] the trip is dangerous but the only way for everyone to survive
