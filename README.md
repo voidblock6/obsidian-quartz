@@ -14,4 +14,4 @@ All files under the `content/` directory are licensed under the **[CC BY-NC-ND 4
 
 ## Contributing
 
-This repository is intended for publishing only. I am not accepting contributions to the worldbuilding content.
+This repository is intended for **publishing only**. I am not accepting contributions to the worldbuilding content.
