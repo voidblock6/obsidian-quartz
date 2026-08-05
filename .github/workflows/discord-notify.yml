@@ -1,0 +1,15 @@
+name: Notify Discord on Content Push
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord notification
+        run: |
+          curl -H "Content-Type: application/json" \
+          -d "{\"content\": \"<@&1534579519669796985> New lore/writing on the website, go to https://worldbuilding.voidblock.dev to read it!\"}" \
+          "${{ secrets.DISCORD_WEBHOOK }}"
