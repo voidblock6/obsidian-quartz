@@ -10,7 +10,7 @@ This website is built using [Quartz](https://quartz.jzhao.xyz/). All credit for 
 
 The source code in this repository is licensed under the MIT License. See `LICENSE.txt` for details. This includes my Quartz configuration, which you are free to use under that license.
 
-All files under the `content/` directory are licensed under the **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)** license. See `CONTENT_LICENSE.txt` for details.
+All files under the `content/` directory are licensed under the **[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en)** license. See `CONTENT-LICENSE.txt` for details.
 
 ## Contributing
 
