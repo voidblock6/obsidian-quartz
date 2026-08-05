@@ -164,6 +164,35 @@ plugins:
       priority: 50
   - source: "@quartz-community/graph"
     enabled: true
+    options:
+    localGraph:
+      drag: true
+      zoom: true
+      depth: 1
+      scale: 1.1
+      repelForce: 0.5
+      centerForce: 0.3
+      linkDistance: 30
+      fontSize: 0.6
+      opacityScale: 1
+      removeTags: []
+      showTags: true
+      focusOnHover: false
+      enableRadial: false
+    globalGraph:
+      drag: true
+      zoom: true
+      depth: -1
+      scale: 0.9
+      repelForce: 0.5
+      centerForce: 0.3
+      linkDistance: 30
+      fontSize: 0.6
+      opacityScale: 1
+      removeTags: []
+      showTags: true
+      focusOnHover: true
+      enableRadial: true
     layout:
       position: right
       priority: 10
@@ -230,8 +259,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/voidblock6/obsidian-quartz/
+        Discord Community: https://discord.gg/mrczAdmam5
     layout:
       position: footer
       priority: 50

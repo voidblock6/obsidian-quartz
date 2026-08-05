@@ -12,5 +12,5 @@ have fun reading!
 ## Important legal note
 you are free to share this site, you may not copy and modify my works and/or redistribute it as your own, you may not use it for commercial purposes, you may use it as inspiration for your own works if it isnt a blatant copy.
 
-This work is licensed under CC BY-NC-ND 4.0
+This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed)
 

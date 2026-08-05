@@ -1,7 +1,17 @@
 # About
-this a repository containing a part of the fantasy i am writing that is published on [my site](worldbuild.voidblock.dev). 
-This site uses [quartz](https://quartz.jzhao.xyz/) all credit to the creators of quartz for the code found in this repository.
+
+This repository contains part of the fantasy world I am writing, which is published on my website: https://worldbuild.voidblock.dev.
+
+The website and this repository do not contain all of the project's content. Some material is still unfinished or depends on other parts before it can be published. More content will be added over time, and existing content may be edited, rewritten, or removed.
+
+This website is built using [Quartz](https://quartz.jzhao.xyz/). All credit for the underlying framework goes to the Quartz developers.
 
 ## Licensing
-The code in this repository is under the MIT license, found in LICENSE.txt, this also means you can copy the specific config i use for quartz
-All files under content/ are under the CC BY-NC-ND 4.0 license found in CONTENT_LICENSE.txt
+
+The source code in this repository is licensed under the MIT License. See `LICENSE.txt` for details. This includes my Quartz configuration, which you are free to use under that license.
+
+All files under the `content/` directory are licensed under the **CC BY-NC-ND 4.0** license. See `CONTENT_LICENSE.txt` for details.
+
+## Contributing
+
+This repository is intended for publishing only. I am not accepting contributions to the worldbuilding content.
