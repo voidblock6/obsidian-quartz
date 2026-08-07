@@ -26,7 +26,7 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
-        secondary: "#284b63"
+        secondary: "#7C3AED"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
@@ -36,7 +36,7 @@ configuration:
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#7b97aa"
+        secondary: "#A970FF"
         tertiary: "#84a59d"
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#b3aa0288"
@@ -111,14 +111,14 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
+    enabled: false
     options:
       theme: default
       mode: both
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}
@@ -165,34 +165,34 @@ plugins:
   - source: "@quartz-community/graph"
     enabled: true
     options:
-    localGraph:
-      drag: true
-      zoom: true
-      depth: 1
-      scale: 1.1
-      repelForce: 0.5
-      centerForce: 0.3
-      linkDistance: 30
-      fontSize: 0.6
-      opacityScale: 1
-      removeTags: []
-      showTags: true
-      focusOnHover: false
-      enableRadial: false
-    globalGraph:
-      drag: true
-      zoom: true
-      depth: -1
-      scale: 0.9
-      repelForce: 0.5
-      centerForce: 0.3
-      linkDistance: 30
-      fontSize: 0.6
-      opacityScale: 1
-      removeTags: []
-      showTags: true
-      focusOnHover: true
-      enableRadial: true
+      localGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 1.1
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: false
+        focusOnHover: false
+        enableRadial: false
+      globalGraph:
+        drag: true
+        zoom: true
+        depth: -1
+        scale: 0.9
+        repelForce: 0.5
+        centerForce: 0.3
+        linkDistance: 30
+        fontSize: 0.6
+        opacityScale: 1
+        removeTags: []
+        showTags: false
+        focusOnHover: false
+        enableRadial: false
     layout:
       position: right
       priority: 10
