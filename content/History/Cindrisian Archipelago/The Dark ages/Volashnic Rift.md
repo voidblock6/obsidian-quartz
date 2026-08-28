@@ -1,0 +1,3 @@
+Before the Volashnic Rift the [[Volashnic Sea]] and the [[Cindrisian Archipelago]] were a paradise, Cindris was a island full with plants and animals, the sea had coral and fish everywhere. The volcanic vents were much milder and actually benefited the environment by heating the sea and releasing minerals good for plant growth.
+
+ But around half a millennium ago a massive earthquake now called the Volashnic Rift caused this ecosystem to destabilize, the Volashnic Sea became toxic from the increased volcanic vent activity and then vents now made travel dangerous because of steam bursts, toxic mist and the patches of the sea that suddenly suddenly boiling. Although its only logical this was caused by a earthquake most religions believe it was divine intervention.

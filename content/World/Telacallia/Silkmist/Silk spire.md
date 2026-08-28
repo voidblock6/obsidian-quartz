@@ -1,7 +1,7 @@
 ---
 publish: true
 ---
-*Serhiuitzillia*
+***Serhiuitzillia***
 
 The Silk spire is the biggest temple of it's kind, its a place to worship the gods of [[Arachnism]], [[Deus Araneus]] and [[Thea Arachnea]]. The temple is located on top of a spire in the middle of the silkmist cave system.
 

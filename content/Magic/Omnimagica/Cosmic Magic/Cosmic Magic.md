@@ -1,0 +1,1 @@
+Cosmic magic is one of the 9 categories of [[Omnimagica]]. cosmic magic is based on the position of stars, planets and moons, giving the user power by studying the alignment 

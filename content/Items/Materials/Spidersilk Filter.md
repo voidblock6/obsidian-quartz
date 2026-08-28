@@ -1,7 +1,6 @@
 ---
 publish: true
 ---
-
 *Arasericeum Tzetzilois*
 
 Spidersilk Filters were invented by [[Weaveforge Industries]] to clean the air inside the cave cities of [[Telacallia]] of toxins and particles  in the smog created by the new industry forming inside the cities. They work by trapping the toxins and particles inside the filter and letting the air pass through, this does cause filters to need to be replaced every few days since they have a high capacity.

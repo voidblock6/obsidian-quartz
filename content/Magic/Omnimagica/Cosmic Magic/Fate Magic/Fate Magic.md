@@ -1,0 +1,1 @@
+Fate magic is a part of [[Cosmic Magic]] and is used to read the fate of someone, or to even alter it
